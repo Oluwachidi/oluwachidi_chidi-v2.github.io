@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Chidiebere Okeoji"
+author: "Chidiebere Okeoji"
+description: "oluwachidi"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: home change}
+  - {file: "README.md", title: About me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:ouwachidis@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Oluwachidi"}
+  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/chidioluwachidi/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
