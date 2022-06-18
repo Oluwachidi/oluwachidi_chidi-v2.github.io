@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "README.md"}
   - {file: "Chidiebere_Okeoji_DataCV_01.docx", title: "CV"}
-  - {file: "index.html"}
   - {title: "Projects"}
   - {title: "Work Experience"}
 
