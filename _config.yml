@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Chidiebere_Okeoji_DataCV_01.docx", title: "CV"}
-  - {title: "About Me"}
+  - {file: "index.html", title: "About Me"}
   - {title: "Projects"}
   - {title: "Work Experience"}
 
