@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
 I am working as a Data Analyst at Telus AI International, where I handle all data types (text, images, audio, video and geo) across 500+ languages and dialects  to help improve business models and the digital experiences of thier users.
