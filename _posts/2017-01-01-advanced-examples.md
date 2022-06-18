@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Waste Assist Classification"
 mathjax: true
 layout: post
 categories: media
