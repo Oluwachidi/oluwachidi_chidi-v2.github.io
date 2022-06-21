@@ -5,10 +5,10 @@ layout: post
 categories: media
 ---
 
-![chidi](Oluwachidi.jpg)
+![chidi](credict card fraud.png "Chidi")
 
 ## Demo Video
-{% include embed.html url="https://www.youtube.com/watch?v=8IQFmcnqFHA" %}
+{% include embed.html url="https://youtube.com/shorts/6tFymr3tqFc" %}
 
 ## MathJax
 
