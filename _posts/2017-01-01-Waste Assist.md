@@ -3,6 +3,7 @@ title:  "Waste Assist Classification"
 mathjax: true
 layout: post
 categories: media
+background: 'assets/work_experience.jpeg'
 ---
 
 ![chidi](credict card fraud.png "Chidi")
