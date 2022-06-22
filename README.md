@@ -2,7 +2,6 @@
 title: "About"
 permalink: "/about/"
 layout: page
-background: '/assets/home page.png'
 ---
 <img class="img-fluid" src="https://i.ibb.co/CPQb1j8/Oluwachidi.png" alt="Chidi_Image">
 
